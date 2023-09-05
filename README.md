@@ -76,7 +76,7 @@ c. Create a new branch:
   
 Design relational db management system for `cookiejar.db` using [DBDiagram.io](https://dbdiagram.io/home)  
   
-![cookiejar.db schema diagram](https://raw.githubusercontent.com/DebJamA/Cookie-Jar/cookieJar-2/rdms_cookiejar.png)  
+![cookiejar.db schema diagram](https://raw.githubusercontent.com/DebJamA/Cookie-Jar/cookieJar-1/rdms_cookiejar.png)  
   
 ## Push to GitHub:  
  
