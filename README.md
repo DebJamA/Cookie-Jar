@@ -53,7 +53,7 @@ b. Launch pipenv subshell in the venv (cookieJar):
   
 **5.** Initialize git repository  
 a. `(cookieJar)% git init`  
-> Output: Initialized empty Git repository in /Users/debbiaigbogun/PycharmProjects/cookieJar/.git/  
+> Output: Initialized empty Git repository in /.../.../.../PycharmProjects/cookieJar/.git/  
    
 b. Set and verify new remote  
 	`(cookieJar)% git remote add cookiejar https://github.com/DebJamA/Cookie-Jar.git`  
@@ -105,21 +105,17 @@ Changes to be committed:
 ```  
   
 `(cookieJar)% git commit -m "set up dev env"`  
-```
-Output:  
-
-```  
-  
-`(cookieJar)% git status`  
-```
-Output:  
-
-```  
-  
 `(cookieJar)% git push cookiejar cookieJar-1`  
 ```  
 Output:  
-
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (5/5), done.
+Writing objects: 100% (5/5), 3.39 KiB | 1.69 MiB/s, done.
+Total 5 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/DebJamA/Cookie-Jar.git
+ * [new branch]      cookieJar-1 -> cookieJar-1
 ```  
   
 ---  
